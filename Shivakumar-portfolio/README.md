@@ -40,7 +40,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/shivakumar-28/Shivakumar-portfolio.git
+git clone https://github.com/shivakumar-28/portfolio.git
 
 # 2️⃣ Navigate to project directory
 cd Shivakumar-portfolio
