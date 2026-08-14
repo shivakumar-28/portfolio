@@ -109,6 +109,13 @@ const CERTS = {
       img: "/certs/eduskills.png",
       link: "/certs/eduskills.png",
     },
+    {
+      title: "ShadowFox AIML Virtual Internship",
+      org: "ShadowFox",
+      date: "2026",
+      img: "/certs/shadowfox.png",
+      link: "/certs/shadowfox.png",
+    },
   ],
   other: [
 
